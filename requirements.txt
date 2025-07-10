@@ -4,3 +4,4 @@ soundfile
 numpy
 python-dotenv
 simpleaudio
+openai[realtime]
